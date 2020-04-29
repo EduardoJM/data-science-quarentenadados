@@ -14,4 +14,12 @@ O *notebook* `QuarentenaDados_MovieLens_IMDB` corresponde as três primeiras aul
 
 ## Minhas Considerações
 
-Em construção...
+### Estatística
+
+Devido ao curso ser um curso de introdução a ciência de dados, foi falado pouco sobre as medidas estatística, por exemplo as medidas de tendência central (média e mediana). Esse ponto foi tratado de uma forma muito "leiga", coisa que, como matemático tendo cursado **probabilidade e estatística** e **inferência estatística** considero perigosa.
+
+### Gerais
+
+De modo geral, a forma como as aulas foram gravadas e disponibilizadas mostrando, por exemplo, a exploração, pesquisas em documentações da biblioteca `pandas` foi muito interessante por mostrar que, mesmo o pessoal que já trabalha com essas ferramentas ainda precisam fazer essas buscas (hahaha!) quebrando o estigma de decoreba.
+
+Por último, o curso foi uma boa introdução as ferramentas do `pandas` e do `seaborn` além do `sklearn` servindo como uma base para novos estudos.
